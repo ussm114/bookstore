@@ -1,0 +1,28 @@
+﻿w folderze bin [bash albo cmd obojętne]
+>mongod --dbpath "c:\Program Files\MongoDB\data"
+wejsc na dysku w folder z projektem
+shift + PPM -> otwórz okno polecenia tutaj :) otworzy CMD które
+nie crashuje :))
+w owym cmd:
+>mongo
+i dalej
+>show dbs ... itd
+:)
+
+
+do aplikacji node:
+folder proj -> git bash here
+> node app
+albo lepiej
+>nodemon [samo przeładowuje po zmianach :) ]
+
+{
+	"title":"the notebook",
+ 	"genre":"romance",
+    "description":"sparks",
+    "author":"dupa",
+    "publisher":"djkfdsjl",
+    "pages":"300",
+    "image_url":"dfsaf",
+    "buy_url":"fjdksljf"
+}
